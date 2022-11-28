@@ -11,7 +11,7 @@
  -CSS
  
  <p>Tela de login responsiva com mobile first, meida query para outras telas</p>
- <p>Formulário com requerimentos e verivicação de requisitos</p>
+ <p>Formulário com requerimentos e verificação de requisitos</p>
  
  </div>
 
