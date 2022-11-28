@@ -14,5 +14,8 @@
  
  </div>
 
- <img align="center" height="500" alt="tela-login" src="login.PNG">
- 
+ <div>
+ <img align="center" height="250" alt="tela-maior-login-" src="login.PNG">
+ <img align="center" height="250" alt="tela-celular-login" src="celular.PNG">
+ <img align="center" height="250" alt="tela-tablet-login" src="tablet.PNG">
+</div>
